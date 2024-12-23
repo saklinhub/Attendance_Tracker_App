@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClassMate</string>
+    <string name="add_subject">add subject</string>
+    <string name="attendance_dashboard">Attendance Dashboard</string>
+</resources>
