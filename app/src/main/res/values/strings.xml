@@ -2,4 +2,6 @@
     <string name="app_name">ClassMate</string>
     <string name="add_subject">add subject</string>
     <string name="attendance_dashboard">Attendance Dashboard</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
 </resources>
